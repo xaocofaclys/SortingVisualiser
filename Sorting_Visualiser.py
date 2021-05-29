@@ -189,29 +189,29 @@ def visualise(tos):
 
 
 
-###--------------------------------Main------------------------------------
+# ###--------------------------------Main------------------------------------
 
-while(True):
-    print("Enter 1. For the graph of  Bubble sort!!")
-    print("Enter 2. For the graph of  Merge sort!!")
-    print("Enter 3. For the graph of  Selection sort!!")
-    print("Enter 4. For the graph of  Insertion sort!!")
-    print("Enter 5. For the graph of  Quick sort!!")
-    print("Enter 6. For the graph of  Quick sort implace !!")
-    print("Enter 7. to  quit the program !!")
+# while(True):
+#     print("Enter 1. For the graph of  Bubble sort!!")
+#     print("Enter 2. For the graph of  Merge sort!!")
+#     print("Enter 3. For the graph of  Selection sort!!")
+#     print("Enter 4. For the graph of  Insertion sort!!")
+#     print("Enter 5. For the graph of  Quick sort!!")
+#     print("Enter 6. For the graph of  Quick sort implace !!")
+#     print("Enter 7. to  quit the program !!")
 
-    choice = int(input())
+#     choice = int(input())
 
-    if(choice == 1): visualise(1)
-    elif(choice == 2): visualise(2)
-    elif(choice == 3): visualise(3)
-    elif(choice == 4): visualise(4)
-    elif(choice == 5): visualise(5)
-    elif(choice == 6): visualise(6)
-    elif(choice == 7): break
-    else:print("Wrong Choice Check again!!")
+#     if(choice == 1): visualise(1)
+#     elif(choice == 2): visualise(2)
+#     elif(choice == 3): visualise(3)
+#     elif(choice == 4): visualise(4)
+#     elif(choice == 5): visualise(5)
+#     elif(choice == 6): visualise(6)
+#     elif(choice == 7): break
+#     else:print("Wrong Choice Check again!!")
 
-    #xaocofachlys
+#     #xaocofachlys
 
 
 
